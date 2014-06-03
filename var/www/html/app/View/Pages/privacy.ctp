@@ -1,0 +1,10 @@
+<b>Privacy Policy</b><br>
+ <br>
+It has been our policy and priority to safeguard any information provided by our customers. We are committed to protecting the privacy, confidentiality and security of the personal information we hold by complying with the requirements of Personal Data (Privacy) Ordinance with respect to the management of personal information. We are equally committed to ensuring that all our employees and agents uphold these obligations.<br>
+<br>
+In visit to our website, we collect no personal data from any customer for only browsing, except updating the statistics on the number of visitors. Throughout the website, only the necessary personal information for applications / enquiry will be collected, and the users will be informed of the purposes and uses, retention period, possible transfer and disclosure and the right of access to and correction of the collected information on the respective screens. We will not collect any information from customers without notice.<br>
+<br>
+Once we obtain customer's personal information, only the authorized staff will be permitted to access to that information, and it will not be revealed to any external organizations without customer's agreement unless it is required to do so by law. From time to time, we may send promotional materials regarding our products to users according to the collected information. We will stop sending the materials to users when they show us their preferences by writing or talking to us.<br>
+<br>
+"Cookies", a small-text file retrieved by the site, as part of our interaction with your browser. We use "cookies" to capture the information of your web pages visited and session identifiers; no personal information is captured in the cookies. The information gathered by cookies may be used for session management, storing user preferences and tracking of web traffic statistics in which web visitors have visited and are interested in. If you disable cookies in the web browsers, you will not be able to access some of the site functions.
+<br>
